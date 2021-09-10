@@ -128,3 +128,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.vs/PythonLearning/v15/.suo
+.vs/VSWorkspaceState.json
+.gitignore
+.vs/slnx.sqlite
